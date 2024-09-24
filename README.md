@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Tahasiraj1)
