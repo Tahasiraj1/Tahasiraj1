@@ -1,6 +1,7 @@
 ## Hi there 👋
 ## 📫 How to reach me: tahasiraj242@gmail.com
-<!--
+![developer-8764523](https://github.com/user-attachments/assets/8e1f118f-30c7-4ead-9ce0-4a537a1bfde4)
+
 **Tahasiraj1/Tahasiraj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
