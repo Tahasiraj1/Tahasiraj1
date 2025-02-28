@@ -50,3 +50,6 @@ I'm a passionate developer focused on building modern web applications with cutt
 ## 📫 Connect With Me
 
 - Email: tahasiraj242@gmail.com
+
+### 🎶 Currently Vibing To
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
