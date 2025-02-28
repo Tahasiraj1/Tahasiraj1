@@ -59,6 +59,10 @@ I'm a passionate developer focused on building modern web applications with cutt
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
 - Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="coding animation">
+</div>
+
 ---
 
 ⭐️ From [Tahasiraj1](https://github.com/Tahasiraj1)
