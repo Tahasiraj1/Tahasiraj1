@@ -7,9 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-siraj-521b512b7/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/taha__siraj/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://my-portfolio-eta-one-97.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tahasiraj242@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
@@ -17,7 +15,7 @@
 
 I'm a passionate developer focused on building modern web applications with cutting-edge technologies. With expertise in both frontend and backend development, I create seamless, user-friendly experiences that solve real-world problems.
 
-- 🔭 I'm currently working on **[Current Project Name]**
+- 🔭 I'm currently working on an **E-Commerce Store**
 - 🌱 I'm currently learning **Python/Streamlit**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **React, Next.js, and full-stack development**
@@ -62,15 +60,4 @@ I'm a passionate developer focused on building modern web applications with cutt
 
 ## 📫 Connect With Me
 
-- Email: your.email@example.com
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="coding animation">
-</div>
-
----
-
-⭐️ From [Tahasiraj1](https://github.com/Tahasiraj1)
+- Email: tahasiraj242@gmail.com
