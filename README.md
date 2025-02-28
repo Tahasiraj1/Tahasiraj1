@@ -53,3 +53,4 @@ I'm a passionate developer focused on building modern web applications with cutt
 
 ### 🎶 Currently Vibing To
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
