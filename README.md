@@ -10,7 +10,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](tahasiraj)
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/fcc778f4b9f-3cb9-47b3-b165-8201e6d1d04f)
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~tahasiraj)
-[https://img.shields.io/badge/Spotify-339933?style=for-the-badge&logo=spotify&logoColor=white](https://open.spotify.com/user/sfkyl03isti8lawwvys7y0aj6)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/sfkyl03isti8lawwvys7y0aj6)
 
 ## 💫 About Me
 
