@@ -16,8 +16,8 @@
 
 I'm a passionate developer focused on building modern web applications with cutting-edge technologies. With expertise in both frontend and backend development, I create seamless, user-friendly experiences that solve real-world problems.
 
-- 🔭 I'm currently working on an **E-Commerce Store**
-- 🌱 I'm currently learning **Python/Streamlit**
+- 🔭 I'm currently working on an **AI Agents**
+- 🌱 I'm currently learning **Agentic AI** with **Python**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **React, Next.js, and full-stack development**
 
