@@ -1,9 +1,5 @@
 # 👋 Hello, I'm Taha Siraj
 
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="full" alt="developer working">
-</div>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://my-portfolio-eta-one-97.vercel.app/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/9529)
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Taha_Siraj)
