@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Taha Siraj
+# 👋 Hello, I'm Taha Siraj!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.tahasiraj.com/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/9529)
