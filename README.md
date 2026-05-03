@@ -47,7 +47,3 @@ I'm a passionate developer focused on building modern web applications with cutt
 ## 📫 Connect With Me
 
 - Email: tahasiraj242@gmail.com
-
-##
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sfkyl03isti8lawwvys7y0aj6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
